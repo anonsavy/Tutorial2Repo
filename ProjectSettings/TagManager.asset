@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - Bad
   layers:
   - Default
   - TransparentFX
